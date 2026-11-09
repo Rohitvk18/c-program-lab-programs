@@ -28,3 +28,16 @@ void main()
 
     getch();
 }
+
+sample input/output:
+
+Enter rectangle length and width: 5,6
+Rectangle area = 30.00
+Rectangle perimeter = 22.00
+
+Enter circle radius: 6
+Circle area = 113.10
+Circle circumference = 37.70
+
+Enter triangle base and height: 9,6
+Triangle area = 27.0
