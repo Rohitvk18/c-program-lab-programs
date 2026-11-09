@@ -6,7 +6,7 @@ Source code:
 
 #include <stdio.h>
 
-int main()
+void main()
 {
     int n, terms, i;
 
