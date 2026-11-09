@@ -23,3 +23,11 @@ void main()
 
     getch();
 }
+
+sample input/output:
+enter two integers:20,5
+    sum:25
+    difference:15
+    product:100
+    quotient:4
+    remainder:0
