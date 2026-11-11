@@ -1,3 +1,10 @@
+Aim: To write, compile and execute a C program for the given problem.
+Problem statement: Accept two integers and display their sum, difference, product, quotient and remainder.
+Verify that the second integer is not zero before performing division or remainder operations.
+
+    
+Source code:
+
 #include <stdio.h>
 
 void main()
